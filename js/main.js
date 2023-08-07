@@ -54,7 +54,7 @@ class BoardSquare {
 }
 
 function generateHTMLForBoardSquares() {
-  const numberOfSquares = 16;
+  const numberOfSquares = 32;
   let squaresHTML = '';
 
   // generate HTML for board squares
